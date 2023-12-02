@@ -1,0 +1,9 @@
+   0 touch 744 myfirstbashscript.sh
+   1 export USER = lena
+   2 export USER=lena
+   3 env
+   4 nano myfirstbashscript.sh 
+   5 cat myfirstbashscript.sh 
+   6 ls -l
+   7 ./myfirstbashscript.sh 
+   8 history>history_ha_new.txt
